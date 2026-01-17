@@ -38,12 +38,33 @@ An intelligent file organizer that automatically categorizes files by type.
 - Safe directory creation
 
 
+
+
 ##  Technologies Used
 - **Python 3**
 - **pathlib**
 - **os**
 - **shutil**
 - Pure Python standard library
+
+
+### 3. Book Scraper
+**Location:** `book-scraper/`
+
+A web scraper to extract book data from books.toscrape.com - demonstrating web automation and data extraction.
+
+#### Features
+- Web scraping with HTTP requests
+- Data extraction using regular expressions
+- Error handling for network operations
+- Clean output to text file
+- Unique book identification extraction
+
+#### Technologies
+- **Python 3**
+- **requests** library
+- **re** (regular expressions)
+- File I/O operations
 
 ## Why These Projects?
 - Useful
